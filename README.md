@@ -19,29 +19,24 @@
 
 <div align = "center">
 
-<p style="font-size:30px;> Back-end Skil </p>
-
-<table border="1">
-  <tr>
-    <td>Back-end Skil</td>
-    <td>height</td>
-  </tr>
- </table>
+ <h2>:notebook: Back-end Stack :notebook:</h2>
 
 
 <img src="https://img.shields.io/badge/JAVA-ffffff?style=for-the-badge&logo=java&logoColor=black">
-<img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=Python&logoColor=black">
-<img src="https://img.shields.io/badge/jQuery-ffffff?style=for-the-badge&logo=jQuery&logoColor=black">
 <img src="https://img.shields.io/badge/Spring-ffffff?style=for-the-badge&logo=Spring&logoColor=black">
-<img src="https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=MySQL&logoColor=black">
-<img src="https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=MongoDB&logoColor=black">
-
-
-
-<img src="https://img.shields.io/badge/Spring-ffffff?style=for-the-badge&logo=Spring&logoColor=black">
-<img src="https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=MySQL&logoColor=black">
+<img src="https://img.shields.io/badge/SpringBoot-ffffff?style=for-the-badge&logo=SpringBoot&logoColor=black">
 <img src="https://img.shields.io/badge/Eclipse-ffffff?style=for-the-badge&logo=Eclipse%20IDE&logoColor=black">
-<img src="https://img.shields.io/badge/github-ffffff?style=for-the-badge&logo=github&logoColor=black">
-<img src="https://img.shields.io/badge/aws-ffffff?style=for-the-badge&logo=AWS&logoColor=black">
+<img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=Python&logoColor=black">
+<img src="https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=Flask&logoColor=black">
+<img src="https://img.shields.io/badge/VisualStudioCode-ffffff?style=for-the-badge&logo=VisualStudioCode&logoColor=black">
+  
+
+<br>
+  
+<h2>:notebook: Front-end Stack :notebook:</h2>
+
+<img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=HTML5&logoColor=black">
+<img src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=CSS3&logoColor=black">
+<img src="https://img.shields.io/badge/jQuery-ffffff?style=for-the-badge&logo=jQuery&logoColor=black">
 
 </div>
