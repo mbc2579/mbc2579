@@ -48,6 +48,7 @@
 <img src="https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=MongoDB&logoColor=black">
 <img src="https://img.shields.io/badge/ApacheTomcat-ffffff?style=for-the-badge&logo=ApacheTomcat&logoColor=black">
 <img src="https://img.shields.io/badge/Nginx-ffffff?style=for-the-badge&logo=Nginx&logoColor=black">
+<img src="https://img.shields.io/badge/Amazon AWS-ffffff?style=for-the-badge&logo=Amazon AWS&logoColor=black">
 <img src="https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=Docker&logoColor=black">
 <img src="https://img.shields.io/badge/Kubernetes-ffffff?style=for-the-badge&logo=Kubernetes&logoColor=black">
 
