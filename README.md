@@ -11,9 +11,12 @@
 
 <h> -------------------------------------------------------------------------------------------------------------------------------------------------------</h>
 
-<div align = "center">
-<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA4MTFfMzIg%2FMDAxNjI4NjQ0MDMyMTg2.SMhtwyxUlAya9a4jR1Ek3MQr9bXT9OqJceMkYJMJeV8g.DOYZExBOTHHFabQgFZpDVJXwp7fcsF94twHmyzSpK6sg.PNG.basicspace11%2F6.PNG&type=sc960_832">
+<div align = "left">
+ <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA4MTFfMzIg%2FMDAxNjI4NjQ0MDMyMTg2.SMhtwyxUlAya9a4jR1Ek3MQr9bXT9OqJceMkYJMJeV8g.DOYZExBOTHHFabQgFZpDVJXwp7fcsF94twHmyzSpK6sg.PNG.basicspace11%2F6.PNG&type=sc960_832" height="300" width"300">
+
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h> -------------------------------------------------------------------------------------------------------------------------------------------------------</h>
 
