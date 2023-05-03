@@ -15,7 +15,7 @@
  <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA4MTFfMzIg%2FMDAxNjI4NjQ0MDMyMTg2.SMhtwyxUlAya9a4jR1Ek3MQr9bXT9OqJceMkYJMJeV8g.DOYZExBOTHHFabQgFZpDVJXwp7fcsF94twHmyzSpK6sg.PNG.basicspace11%2F6.PNG&type=sc960_832" height="200" width"200"> 
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mbc2579)](https://solved.ac/mbc2579)
 
 <h> -------------------------------------------------------------------------------------------------------------------------------------------------------</h>
 
