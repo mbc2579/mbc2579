@@ -40,5 +40,15 @@
 <img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=HTML5&logoColor=black">
 <img src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=CSS3&logoColor=black">
 <img src="https://img.shields.io/badge/jQuery-ffffff?style=for-the-badge&logo=jQuery&logoColor=black">
+ 
+<br>
+ 
+<h2>:notebook: DB/Server/Container Stack :notebook:</h2>
+<img src="https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=MySQL&logoColor=black">
+<img src="https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=MongoDB&logoColor=black">
+<img src="https://img.shields.io/badge/ApacheTomcat-ffffff?style=for-the-badge&logo=ApacheTomcat&logoColor=black">
+<img src="https://img.shields.io/badge/Nginx-ffffff?style=for-the-badge&logo=Nginx&logoColor=black">
+<img src="https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=Docker&logoColor=black">
+<img src="https://img.shields.io/badge/Kubernetes-ffffff?style=for-the-badge&logo=Kubernetes&logoColor=black">
 
 </div>
