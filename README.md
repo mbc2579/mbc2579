@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/Eclipse-ffffff?style=for-the-badge&logo=Eclipse%20IDE&logoColor=black">
 <img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=Python&logoColor=black">
 <img src="https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=Flask&logoColor=black">
-<img src="https://img.shields.io/badge/VisualStudioCode-ffffff?style=for-the-badge&logo=VisualStudioCode&logoColor=black">
+<img src="https://img.shields.io/badge/IntelliJ-ffffff?style=for-the-badge&logo=&logoColor=black">
   
 
 <br>
